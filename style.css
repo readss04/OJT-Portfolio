@@ -804,6 +804,11 @@ form textarea {
 
 /* GALLERY SECTION */
 
+.ojt-hr {
+  width: 30%;
+  margin-top: -10px;
+}
+
 .carousel-wrapper {
   text-align: center;
 }
